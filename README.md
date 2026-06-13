@@ -10,6 +10,11 @@ This project uses historical international football match data combined with FIF
 
 
 ---
+##  The app link
+[FIFA-World-Cup-Predictor](https://fifa-world-cup-2026-outcomes-prediction.streamlit.app/)
+
+
+---
 
 ## Objectives
 

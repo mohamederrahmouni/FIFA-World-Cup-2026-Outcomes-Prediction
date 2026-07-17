@@ -177,15 +177,3 @@ git clone https://github.com/mohamederrahmouni/FIFA-World-Cup-2026-Outcomes-Pred
 cd FIFA-World-Cup-2026-Outcomes-Prediction
 ```
 
----
-
-## Author
-
-**Mohamed Errahmouni**
-Big Data & Artificial Intelligence Engineering Student
-
-- GitHub: [@mohamederrahmouni](https://github.com/mohamederrahmouni)
-- Repository: [FIFA-World-Cup-2026-Outcomes-Prediction](https://github.com/mohamederrahmouni/FIFA-World-Cup-2026-Outcomes-Prediction)
-
----
-
